@@ -6,6 +6,8 @@ utilizaremos el siguiente comando.
 
  # groupadd Casa
  
+ Casa:x:1005:
+ 
  # groupadd Familia
  
  Familia:x:1002:
@@ -16,9 +18,9 @@ lo realizamos con la singuiente linea de comando
 
 # useradd Rosario
 
-# useradd Dember 
-
 Rosario:x:1003:
+
+# useradd Dember 
 
 Dember:x:1004:
 
