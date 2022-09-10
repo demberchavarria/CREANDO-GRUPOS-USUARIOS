@@ -2,7 +2,7 @@
 
 #como primer paso vamos a crear un grupo llamado Casa y otro grupo llamado Familia 
 
-#utilizaremos el siguiente comando
+#utilizaremos el siguiente comando.
  groupadd Casa
  groupadd Familia
 
